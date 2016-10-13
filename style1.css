@@ -1,5 +1,5 @@
 .container {
-  background-color: #2B2B2B;
+  background-color: #89DA59;
 }
 body {
 
@@ -11,9 +11,9 @@ body {
   border: 30px;
   margin-left: auto;
   margin-right: auto;
-  outline-color: #DE1B1B;
-  outline-style: double;
-  background-color: lightblue;
+  outline-color: #80BD9E;
+  outline-style: groove;
+  background-color: #F98866;
   outline-width: 30px;
   font-family: sans-serif;
 
@@ -49,8 +49,8 @@ img {
 }
 
 .oval {
-outline-style: double;
-outline-color: #DE1B1B;
+outline-style: groove;
+outline-color: #80BD9E;
 outline-width: 30px;
 height: 9999999px;
 width: 200px;
@@ -58,7 +58,7 @@ position: fixed;
 left: 0px;
 
 
-background-color: #2B2B2B;
+background-color: #89DA59;
 }
 
 #a1 {
