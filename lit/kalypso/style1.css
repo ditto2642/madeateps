@@ -1,0 +1,80 @@
+.container {
+  background-color: #8FD8D2;
+}
+body {
+
+  text-align: center;
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 800px;
+  border: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  outline-color: #01ABAA;
+  outline-style: double;
+  background-color: #FEDCD2;
+  outline-width: 30px;
+  font-family: verdana, "arial", Arial, arial, "Arial", sans-serif;
+
+
+
+}
+
+h2 {
+  text-align: center;
+  color: #DF744A;
+}
+h1 {
+  padding-top: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: center;
+  color: #DF744A;
+}
+
+p {
+    color: #DF744A;
+text-align: center;
+padding-bottom: 50px;
+font-size: 20px;
+}
+
+a {
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+  color: #DF744A;
+  outline-style:
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.oval {
+outline-style: double;
+outline-color: #01ABAA;
+outline-width: 30px;
+height: 9999999px;
+width: 200px;
+position: fixed;
+left: 0px;
+
+
+background-color: #8FD8D2;
+}
+
+#a1 {
+  color: #DF744A;
+}
+input {
+  color: white;
+}
+  tr {
+color: white;
+
+}
